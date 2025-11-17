@@ -260,7 +260,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://go.invictuspay.app.br/glffpwmhht';
+    window.location.href = 'https://seguropagamentos.com.br/tiktoktaxa';
   });
 
 }
